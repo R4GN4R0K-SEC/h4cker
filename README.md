@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=164B63&multiline=true&width=453&height=100&lines=HackerRepo.org+;Cybersecurity+Resources)](https://git.io/typing-svg)
+<p align="center">
+  🔥💀 🅰🅽🅾🅽🆈🅼🅾🆄🆂 💀🔥 </br>
+    ░█▀▀░█░█░█▀█░█▀▀░▀█▀ </br>
+    ░█░█░█▀█░█░█░▀▀█░░█░ </br>
+    ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░ </br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=164B63&multiline=true&width=453&height=100&lines=HackerRepo.org+;Cybersecurity+Resources)](https://git.io/typing-svg) 
 
 This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources. It is carefully curated and maintained by [Omar Santos](https://omarsantos.io/).
 
